@@ -1,0 +1,7 @@
+
+path: C:/Users/riley/PycharmProjects/processamento_imagems
+train: imgs
+val: imgs
+names:
+  0: ruler
+  1: waterline
