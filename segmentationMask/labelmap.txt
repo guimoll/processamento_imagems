@@ -1,5 +1,0 @@
-# label:color_rgb:parts:actions
-background:0,0,0::
-bridge:184,61,245::
-water:170,240,209::
-water ruler:5,4,5::
