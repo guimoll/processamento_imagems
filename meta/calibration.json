@@ -1,0 +1,10 @@
+{
+  "bridge_cam_01": {
+    "image_height_px": 768,
+    "image_width_px": 1365,
+    "y_top_px": 250,
+    "y_bottom_px": 720,
+    "m_top": 12.0,
+    "m_bottom": 8.0
+  }
+}

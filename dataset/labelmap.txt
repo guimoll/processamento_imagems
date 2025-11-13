@@ -1,0 +1,6 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+bridge:184,61,245::
+ruler:250,125,187::
+water:170,240,209::
+
